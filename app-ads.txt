@@ -140,3 +140,6 @@ indexexchange.com, 215209, RESELLER, 50b1c356f2c5c8fc
 growintech.co, 2723d092b63885e0d7c260cc007e8b9d81642, RESELLER, 9d8dfe5c6b00fb37
 Media.net, 8CU9B72O6, RESELLER
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+apexflowsdk.com, 1083, reseller
+rubiconproject.com, 28075, reseller, 0bfd66d529a55807
+video.unrulymedia.com, 817753694, reseller
